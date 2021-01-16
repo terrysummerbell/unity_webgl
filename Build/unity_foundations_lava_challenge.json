@@ -1,0 +1,16 @@
+{
+"companyName": "Unity Foundations Course",
+"productName": "Unity Foundation Lava Challenge",
+"productVersion": "0.1",
+"dataUrl": "unity_foundations_lava_challenge.data.unityweb",
+"wasmCodeUrl": "unity_foundations_lava_challenge.wasm.code.unityweb",
+"wasmFrameworkUrl": "unity_foundations_lava_challenge.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
